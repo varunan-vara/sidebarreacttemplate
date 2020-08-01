@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Varela-Round';
+    src: url(./../fonts/Varela_Round/VarelaRound-Regular.ttf) format('truetype');
+}
+
+@font-face{
+    font-family: 'Cascadia-Code';
+    src: url(./../fonts/CascadiaCode-2007.01/ttf/CascadiaCode.ttf) format('truetype');
+}
+
+Sidebar {
+    height: 100%;
+}
